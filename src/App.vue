@@ -23,8 +23,11 @@ defineExpose({ profile });
     </p>
   </div>
 
-  <div>
-    <p style="font-weight: bold; margin-left: 120px">CONTACT</p>
+  <div class="contact-details">
+    <p style="font-weight: bold">CONTACT</p>
+    <p>22FTT1515@student.pb.edu.bn</p>
+    <p>+673 xxxxxxx</p>
+    <p>www.syazwana.io</p>
   </div>
 </template>
 
@@ -60,5 +63,9 @@ defineExpose({ profile });
   color: #000;
   margin-left: 400px;
   margin-bottom: 90px;
+}
+
+.contact-details {
+  margin-left: 350px;
 }
 </style>
