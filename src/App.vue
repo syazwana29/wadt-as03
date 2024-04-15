@@ -15,7 +15,7 @@ defineExpose({ profile });
     <h2 class="text-2xl text-black font-bold mb-14 ml-96" >
       Dayangku Syazwana Pengiran Haji Ismail Kairuluddin, 22FTT1515
     </h2>
-    <p>
+    <p class="text-xl ml-96 mb-24">
       I am currently studying in Politeknik Brunei, taking level 5 Diploma in
       Web Development. Devoted to volleyball and loves creating and designing as
       a way to show my creativity. Likes playing video games to explore virtual
@@ -32,13 +32,6 @@ defineExpose({ profile });
 </template>
 
 <style scoped>
-
-/* .description { text-xl ml-400 mb-90
-  font-size: 20px;
-  color: #000;
-  margin-left: 400px;
-  margin-bottom: 90px;
-} */
 
 /* .contact-details {
   margin-left: 350px;
