@@ -12,7 +12,7 @@ defineExpose({ profile });
   </div>
 
   <div>
-    <h2>
+    <h2 class="text-2xl text-black font-bold mb-14 ml-96" >
       Dayangku Syazwana Pengiran Haji Ismail Kairuluddin, 22FTT1515
     </h2>
     <p>
@@ -32,15 +32,6 @@ defineExpose({ profile });
 </template>
 
 <style scoped>
-
-
-/* .header {
-  font-size: 25px;
-  font-weight: bold;
-  color: #000;
-  margin-bottom: 60px;
-  margin-left: 400px;
-} */
 
 /* .description { text-xl ml-400 mb-90
   font-size: 20px;
