@@ -7,8 +7,8 @@ defineExpose({ profile });
 
 <template>
   <div>
-    <img :src="profile" class="w-80 h-80 rounded-full absolute ml-12 mt-16" />
-    <p>DAYANGKU SYAZWANA</p>
+    <img :src="profile" class="w-80 h-80 rounded-full absolute ml-12 mt-0" />
+    <p  class="text-2xl font-bold absolute ml-20 mt-80">DAYANGKU SYAZWANA</p>
   </div>
 
   <div>
@@ -33,14 +33,6 @@ defineExpose({ profile });
 
 <style scoped>
 
-/* .name {
-  font-size: 25px;
-  font-weight: bold;
-  position: absolute;
-  left: 95px;
-  top: 450px;
-  color: #000;
-} */
 
 /* .header {
   font-size: 25px;
