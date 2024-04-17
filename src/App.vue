@@ -8,7 +8,7 @@ defineExpose({ profile });
 <template>
   <div class="min-h-screen flex flex-col items-center justify-center lg:justify-start lg:items-start">
     <img :src="profile" class="w-80 h-80 lg:w-80 lg:h-80 rounded-full absolute mr-32 lg:ml-12 mb-96 lg:mt-0" />
-    <p  class="text-2xl font-bold absolute mr-20 lg:ml-20 mb-2 lg:mt-96">DAYANGKU SYAZWANA</p>
+    <p  class="text-2xl font-bold absolute mr-20 lg:ml-20 mb-2 lg:mt-96">DK SYAZWANA</p>
   
 
 <div class="flex flex-col items-center justify-center w-full text-center">
